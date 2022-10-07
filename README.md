@@ -1,2 +1,2 @@
-# Leetcode
-Leet code topic wise solutions
+# Interview Questions
+topic wise solutions
